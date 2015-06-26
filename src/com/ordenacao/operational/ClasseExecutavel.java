@@ -23,7 +23,7 @@ public class ClasseExecutavel {
 			
 			System.out.print("Entre com o numero: ");
 			numeros = input.nextInt();
-			numero.gerarNumeros(numeros);
+			//numero.gerarNumeros(numeros);
 			
 			vetorNumeros[contador] = numero;
 			
